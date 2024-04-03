@@ -1,0 +1,39 @@
+h1 {
+     text-align: center;
+     margin-top: 200px;
+     font-size: 40px;
+     font-family: Georgia, 'Times New Roman', Times, serif;
+  }
+
+
+div {
+    width: 390px;
+    justify-content: center;
+    align-items: center;
+    /* border: 2px solid black; */
+    display: flex;
+    height: 70px;
+    margin: 60px auto;
+
+}
+p {
+    padding: 10px 20px;
+    margin-bottom: 90px;
+    text-align: center;
+
+
+}
+
+button {
+    padding: 10px 20px;
+    text-align: center;
+    margin: -85px auto;
+    background-color: black;
+    font: white;
+    font-size: 13px;
+    color: white;
+    display: block;
+    border-radius: 5px;
+    height: 48px;
+    width: 200px;
+}
